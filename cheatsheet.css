@@ -1,0 +1,67 @@
+header {
+    color: #63C5EC;
+    font-family: 'squada one', 'Courier New', Courier, monospace, Vernada;
+    text-align: center;
+    font-size: 65px;
+}
+body {
+    background-color: aliceblue;
+}
+
+h2 {
+    color: #307E9E;
+    text-align: justify;
+    font-size: 45px;
+}
+
+.mariobox {
+    background-image: url(../CheatSheet/resources/mario.jpeg);
+    background-size: contain;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+table, th, td, tr, tfoot {
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+th {
+    background-color: rgb(91, 158, 179);
+}
+
+.mainly {
+    background-color: bisque;
+    font-weight: bold;
+}
+
+.eg {
+    background-color: antiquewhite;
+    font-style: italic;
+}
+
+.end {
+    background-color: beige;
+}
+
+.f1 {
+    font-weight: bold;
+}
+
+#footer {
+    background-color: rgb(226, 164, 177);
+    text-align: center; 
+}
+
+.bojack {
+    font-family: 'coming soon', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    background-image: url(../CheatSheet/resources/gettseasier.jpeg);
+    background-position: center;
+    background-size: cover;
+    width: 150px;
+    margin: 10px;
+    border: 50px;
+    padding: 70px;
+    }
